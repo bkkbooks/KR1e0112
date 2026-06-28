@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR1e0112/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR1e0112/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 春秋長歷一卷
+  identifiers:
+    krp: KR1e0112
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR1e
+  source:
+    repository: tls-texts
+    path: data/tls/KR1e0112.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR1e0112_001-CHANT.yaml, hash: 'sha256:88afdd30f28470fcfc88673f3132c71a997e0950f3d09882b4010168821704c0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1e0112_001-CHANT.markers.yaml, hash: 'sha256:808796a02996ee636c80b70bc6610764c19268a5820fc1b41b2ff45f79d69b69'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1e0112_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 21171
+  label: 春秋長歷
+  type: section
+  level: 1
+hash: sha256:dc14252837871ada2589a04ac1641c1d4d1913d613d25764f90361af557c8bf1
