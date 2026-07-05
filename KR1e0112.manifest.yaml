@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR1e0112_001.yaml, hash: 'sha256:04bbe192759dd2cfc11390641db9b77725e153fea4047d7ee0e6550a7af33453'}
+  - {seq: 1, filename: KR1e0112_001.yaml, hash: 'sha256:88afdd30f28470fcfc88673f3132c71a997e0950f3d09882b4010168821704c0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1e0112_001.markers.yaml, hash: 'sha256:061b42fe9cd138831fa283c4ec369bef61bdab575baed6d9224516524e5baa71'}
+  - {seq: 1, role: markers, filename: assets/KR1e0112_001.markers.yaml, hash: 'sha256:5b63d8c24d9351162b651cb7e9e2d19aae9c14e7688c60e28e23c16cee8ce31e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 春秋長歷
   type: section
   level: 1
-hash: sha256:7ffed9245486dd1449b45388c9eb4e54d8c7ff22ae2d9718b756b66ebf68e316
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7b6b4c8b73bb951a04edd63c4abc13f6ba0d14b1b1227490ca6962aa06e5a058
