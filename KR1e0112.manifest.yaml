@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1e0112/v1
 canonical_location: https://kanripo.org/bkk/KR1e0112/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 春秋長歷一卷
   identifiers:
@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR1e0112_001.yaml, hash: 'sha256:88afdd30f28470fcfc88673f3132c71a997e0950f3d09882b4010168821704c0'}
+  - {seq: 1, filename: KR1e0112_001.yaml, hash: 'sha256:f86fa15131782aed08ba091c5d986640d556e9f29f3ad10843d6881bb1b1201c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1e0112_001.markers.yaml, hash: 'sha256:5b63d8c24d9351162b651cb7e9e2d19aae9c14e7688c60e28e23c16cee8ce31e'}
+  - {seq: 1, role: markers, filename: assets/KR1e0112_001.markers.yaml, hash: 'sha256:44a40a249f1e6072f79eff4e375b8056cce634f8ec281ea61108ee9d9068e231'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,7 @@ table_of_contents:
   label: 春秋長歷
   type: section
   level: 1
-hash: sha256:7b6b4c8b73bb951a04edd63c4abc13f6ba0d14b1b1227490ca6962aa06e5a058
+hash: sha256:422ce820118aec01f64bbd93e6fd323a2fb2340d5bde71cda84c7c5df218e3d7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
